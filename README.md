@@ -1,7 +1,7 @@
 # Superstore-Sales-Data-Analysis
 ## Project Overview
-This project analyzes retail sales data. Which identify patterns and insights related to customers, products, regions, sales, profitability, and shipping performance. The project shows an end-to-end data analytics workflow using Excel, SQL Server, and Power BI.
-## Tools for analysis
+This project analyzes retail sales data to identify patterns and insights related to customers, products, regions, sales, profitability, and shipping performance. The project shows an end-to-end data analytics workflow using Excel, SQL Server, and Power BI.
+## Tools for Analysis
 - Microsoft Excel
 - SQL Server
 - Power BI
