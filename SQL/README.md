@@ -3,7 +3,7 @@ This folder presents the SQL analysis stage of the **Superstore Sales Data Analy
 ## SQL File
 `Superstore_SQL_Analysis.sql`
 ## Analysis covered
-SQL analysis includes;
+The SQL analysis includes;
 - Dataset overview and business KPIs
 - Regional sales and profitability analysis
 - Category and sub-category performance
@@ -30,6 +30,6 @@ SQL analysis includes;
 - `LAG()`
 - `NULLIF()`
 ## Analytical Focus
-- The analysis was designed around business questions rather than isolated SQL exercises. I treated repeated Order IDs as valid transaction-line records because a single order may contain multiple products.
+The analysis was designed around business questions rather than isolated SQL exercises. I treated repeated Order IDs as valid transaction-line records because a single order may contain multiple products.
 ## Next Stage 
 The key SQL findings will be communicated through **Power BI** in an interactive business dashboard.
