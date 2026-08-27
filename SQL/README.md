@@ -1,6 +1,5 @@
 # Superstore SQL Analysis
-This folder presents the analysis stage of the project with the title **Superstore Sales Data Analysis**.
-The dataset was cleaned and prepared in Excel and analyzed it by using **Microsoft SQL Server **.
+This folder presents the SQL analysis stage of the **Superstore Sales Data Analysis** project. The dataset was cleaned and prepared in Excel and then analyzed using **Microsoft SQL Server**.
 ## SQL File
 `Superstore_SQL_Analysis.sql`
 ## Analysis covered
