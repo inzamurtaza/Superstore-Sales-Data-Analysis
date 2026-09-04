@@ -1,20 +1,16 @@
-# Excel Data Preparation
-This folder contains the Excel data preparation stage of the Superstore Sales Data Analysis project.
+# Excel — Data Preparation
+This stage focused on understanding, cleaning, and validating the Superstore data before moving into SQL Server for deeper analysis.
 ## Workbook
-- Superstore_data_Preparation.xlsx`
-### Data_Cleaning
-- Prepared and standardized the Superstore dataset
-- Created date-based fields for Year, Month, and Day
-- Applied text standardization to customer information
-- Created additional classification fields for analysis
-- Preserved transaction-level granularity
-### Data_Validation
-- Validated 9,994 records
-- Checked key fields for missing values
-- Validated order and shipping dates
-- Checked Sales, Quantity, and Discount ranges
-- Reviewed Category and Region consistency
-- Investigated repeated Order IDs and confirmed they are expected because individual orders can contain multiple transaction lines
-## Next Stage
+`Superstore_data_Preparation.xlsx`
+## What I Did
+- Checked the dataset for missing values, duplicates, and inconsistent entries
+- Reviewed data types and validated order and shipping dates
+- Standardized text fields and checked category and region consistency
+- Created supporting fields for date-based and profitability analysis
+- Used formulas, PivotTables, and filters to validate key totals and explore the data
+- Investigated repeated Order IDs and confirmed that they represent multiple product line items within the same order
+- Verified the final dataset contained **9,994 transaction-level records**
+## Outcome
+The Excel stage produced a clean and validated dataset and provided an initial understanding of sales, customers, products, and profitability before the analysis moved to SQL Server.
 
-The prepared dataset is used for business analysis in SQL.
+**Next stage → [`03-SQL`](../03-SQL/)**
