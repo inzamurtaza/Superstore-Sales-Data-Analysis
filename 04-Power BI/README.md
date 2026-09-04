@@ -1,4 +1,4 @@
-# Power BI — Interactive Business Intelligence Report
+# Power BI — Interactive Analytics Report
 This folder contains the final Power BI report for the **Retail Performance & Profitability Analysis** project.
 The report brings the Excel preparation and SQL analysis together in an interactive solution designed to move from **performance monitoring → profitability diagnosis → business action**.
 ## Report File
