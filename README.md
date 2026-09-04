@@ -33,7 +33,6 @@ The dataset contains **9,994 transaction records from 2014–2017**, covering cu
 ## Power BI Report
 The final report follows a decision-oriented analytical flow:
 ### 1. Executive Pulse — *What happened?*
-![Executive Pulse](05-Assets/01-Executive%20Pulse.PNG)
 Tracks sales, profit, margin, orders, customers, YoY performance, regional performance, category performance, and sales momentum.
 ### 2. Profitability Diagnostic — *Why did it happen?*
 ![Profitability Diagnostic](05-Assets/02-Profitability%20Diagnostic.PNG)
