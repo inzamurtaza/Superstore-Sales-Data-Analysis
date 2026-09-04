@@ -14,4 +14,4 @@ This project analyzes retail sales data to identify patterns and insights relate
 - Identify high- and low-performing products and regions
 - Develop an interactive Power BI dashboard
 ## Project Status
-- In progress
+- Completed
