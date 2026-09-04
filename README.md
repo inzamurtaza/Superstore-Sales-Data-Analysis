@@ -35,14 +35,14 @@ The final report is structured around a simple decision-making flow:
 ### 1. Executive Pulse — *What happened?*
 Tracks sales, profit, margin, orders, customers, YoY performance, regional performance, category performance, and sales momentum.
 ### 2. Profitability Diagnostic — *Why did it happen?*
-![Profitability Diagnostic](05-Assets/02-Profitability Diagnostic.png)
+![Profitability Diagnostic](05-Assets/02-Profitability%20Diagnostic.png)
 Examines sales vs. profit by sub-category, discount-level profitability, regional and segment performance, monthly profit trends, and loss-making orders.
 
 ### 3. Action Center — *What should we do?*
-![Action Center](05-Assets/03-Action Center.png)
+![Action Center](05-Assets/03-Action%20Center.png)
 Translates analytical findings into three priorities: **control high-discount risk, investigate profitability gaps, and protect profitable growth**.
 ### 4. Data Info — *How was it built?*
-![Data Info](05-Assets/04-Data-Info.png)
+![Data Info](05-Assets/04-Data%20Info.png)
 Documents the dataset, Excel → SQL Server → Power BI workflow, data model, and key metric definitions.
 ---
 
